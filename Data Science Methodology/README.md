@@ -6,7 +6,7 @@
 <img width="644" alt="Screenshot 2024-02-01 at 4 19 13 PM" src="https://github.com/DuongNg2911/IBM-Data-Science/assets/127082369/7c713688-2c0a-45d8-a516-d996aa45d0f7">
 
 - DS methodology consists of 10 stages and here are the questions to ask at each stage:
-	- Business understanding -> analyic approach (define the issue and solution):
+	- Business understanding -> analytic approach (define the issue and solution):
  		- What is the problem that you are trying to solve?
 	 	- How can you use data to answer the business question?
   - Data requirements -> Data collection -> Data understanding -> Data preparation (get organized around the data)
@@ -39,6 +39,24 @@
 	- Using Data visualization and decriptive statistics to get initial insights about the data.
  	- This step involves collaborating with DBAs and programmer to extract and merge data from various sources
 
+- Fifth stage: Data understanding
+	- Descriptive statistics:
+ 		- Univariate statistics on each variable, such as mean, median, minimum, maximum, and standard deviation
+   		- Pairwise correlations were used, to see how closely certain variables were related, and which ones, if any, were very highly correlated, meaning that they would be essentially redundant, thus making only one relevant for modeling. 
+		-  Histograms are a good way to understand how values or a variable are distributed, and which sorts of data preparation may be needed to make the variable more useful in a model.
+	- The data understanding phase aims to determine if the collected data represents the problem to be solved.
 
+- Sixth stage: Data preparation (Taking about 70-90% of the project)
+	- Cleansing data
+   		- Remove invalid, missing or duplicate
+  		- Formatting 
+   	- Transformation data
+   	- Using domain knowledge (feature engineering):
+   	  	- Feature engineering is the process of using domain knowledge of the data to create feature that makes the machine learning algorithms work.
+   	-  Automation can reduce data preparation time by up to 50 percent. Automation allows data scientists to spend more time focusing on model creation.
 
+- Seventh stage: Modeling
+	- Focuses on developing models that are either descriptive or predictive.
+	- An example of a descriptive model might examine things like: if a person did this, then they're likely to prefer that. A predictive model tries to yield yes/no, or stop/go type outcomes. These models are based on the analytic approach that was taken, either statistically driven or machine learning driven.
 
+- Eighth stage: Evaluation 
