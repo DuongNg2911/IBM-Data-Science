@@ -27,3 +27,5 @@
   - Structure of an API URL
 
 <img width="1071" alt="Screenshot 2024-02-01 at 9 19 35 PM" src="https://github.com/DuongNg2911/IBM-Data-Science/assets/127082369/e0144325-94eb-48f7-ade9-885108df2945">
+
+- Webscraping: A process that can be used to automatically extract information from a website, and can easily be accomplished within a matter of minutes and not hours.
