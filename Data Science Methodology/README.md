@@ -58,5 +58,14 @@
 - Seventh stage: Modeling
 	- Focuses on developing models that are either descriptive or predictive.
 	- An example of a descriptive model might examine things like: if a person did this, then they're likely to prefer that. A predictive model tries to yield yes/no, or stop/go type outcomes. These models are based on the analytic approach that was taken, either statistically driven or machine learning driven.
+	- Descriptive models use data aggregation and data mining to uncover patterns in past or current events. A familiar example of descriptive modeling is business reporting in the form of graphs, charts, and dashboards. While descriptive models can be very complex, they are usually close to 100% accurate.
+	- Predictive models analyze historical data and use AI algorithms to uncover trends, make smart extrapolations, and identify likely outcomes.
 
 - Eighth stage: Evaluation 
+  	- Model Evaluation involves two main phrases:
+  	  	- Diagnostic measures: used to ensure the model is working as intended
+  	  	- Statistical significance: This type of evaluation can be applied to the model to ensure that the data is being properly handled and interpreted within the model.
+  	- ROC curve (Diagnostic tool for classification model evaluation):
+  	  	- Optimal model at maximum separation between the point and the red line.
+<img width="628" alt="Screenshot 2024-02-03 at 1 34 08 PM" src="https://github.com/DuongNg2911/IBM-Data-Science/assets/127082369/8cf2d6cf-5f89-4360-a45e-e5088ff87ac0">
+
