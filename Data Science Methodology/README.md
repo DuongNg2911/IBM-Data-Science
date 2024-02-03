@@ -61,7 +61,8 @@
 	- Descriptive models use data aggregation and data mining to uncover patterns in past or current events. A familiar example of descriptive modeling is business reporting in the form of graphs, charts, and dashboards. While descriptive models can be very complex, they are usually close to 100% accurate.
 	- Predictive models analyze historical data and use AI algorithms to uncover trends, make smart extrapolations, and identify likely outcomes.
 
-- Eighth stage: Evaluation 
+- Eighth stage: Evaluation
+	- Model evaluation helps determine if the model effectively addresses the problem and provides accurate results.
   	- Model Evaluation involves two main phrases:
   	  	- Diagnostic measures: used to ensure the model is working as intended
   	  	- Statistical significance: This type of evaluation can be applied to the model to ensure that the data is being properly handled and interpreted within the model.
