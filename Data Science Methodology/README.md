@@ -70,3 +70,17 @@
   	  	- Optimal model at maximum separation between the point and the red line.
 <img width="628" alt="Screenshot 2024-02-03 at 1 34 08 PM" src="https://github.com/DuongNg2911/IBM-Data-Science/assets/127082369/8cf2d6cf-5f89-4360-a45e-e5088ff87ac0">
 
+- Ninth stage: Deployment
+- Tenth stage: Feedback
+
+<img width="1372" alt="Screenshot 2024-02-03 at 3 12 33 PM" src="https://github.com/DuongNg2911/IBM-Data-Science/assets/127082369/6a12233c-37db-47b1-9ea2-e01714ca0f9e">
+
+- Note: Each stage of this methodology is highly iterative
+- CRISP-DM (Cross-industry standard process for data mining)
+	- A structured approach to guide data-driven decision-making
+ 	- Data mining life cycle
+ <img width="413" alt="Screenshot 2024-02-03 at 3 34 54 PM" src="https://github.com/DuongNg2911/IBM-Data-Science/assets/127082369/3d949b24-8206-4efb-ba9b-3270728a09e6">
+
+ 	- Data mining:
+  		- Reveals patterns and structure between data
+      		- Provides knowledge and insights that address the stated business problems and goals
